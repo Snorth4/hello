@@ -13,6 +13,8 @@
 
     printf ("Stephen North!\n");
     printf ("COMPUTER SCIENCE!\n");
+    printf ("Trentyn Beekman!\n");
+    printf ("Computer Engineering\n");
 
     return 0;
 }
